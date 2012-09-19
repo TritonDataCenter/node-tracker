@@ -1,0 +1,17 @@
+{
+    "name": "tracker",
+    "version": "1.0.1",
+    "description": "generic periodic stat tracker",
+    "author": "Joyent, Inc",
+    "homepage": "http://www.joyent.com",
+    "main": "lib",
+    "directories": {
+        "lib": "lib"
+    },
+    "dependencies": {
+        "sax": "0.3.5"
+    },
+    "engines": {
+        "node": ">=0.4.3"
+    }
+}
